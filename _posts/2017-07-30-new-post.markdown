@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is a new post"
-date:   2017-07-00 02:50:00 +0000
+date:   2017-07-30 02:50:00 +0000
 categories: new post
 ---
 This is a new post. This site will soon host Green Spark Comics.
