@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Green Spark Comics!"
-date:   2017-07-30 02:50:00 +0000
+date:   2017-07-31 17:00:00 +0000
 categories: new post
 ---
 This site will soon host Green Spark Comics.
