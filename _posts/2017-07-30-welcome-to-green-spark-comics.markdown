@@ -6,6 +6,6 @@ categories: new post
 ---
 This site will soon host Green Spark Comics.
 
-Here's a sample of some crappy art:
+In the meantime, here's a sample of some crappy art:
 
 ![Death to the instant gratification monkey](/images/stopitmonkey.jpg)
