@@ -10,4 +10,4 @@ In the meantime, here's a sample of some crappy art:
 
 ![Death to the instant gratification monkey](/images/stopitmonkey.jpg)
 
-(Don't worry, the comics won't be in this style.)
+(Don't worry, the comics won't be in this style. This just happened to be a convenient file I had lying around when I was testing how images would look.)
