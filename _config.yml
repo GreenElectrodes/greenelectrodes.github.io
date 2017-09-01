@@ -9,7 +9,7 @@
 title: Green Spark Comics
 email: greensparkcomics@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Future Home of Green Spark Comics
+  The Home of Green Spark Comics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://greensparkcomics.com" # the base hostname & protocol for your site
 twitter_username: greensparkcomic
