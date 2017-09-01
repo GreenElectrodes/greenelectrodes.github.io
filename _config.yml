@@ -7,12 +7,12 @@
 
 # Site settings
 title: Green Spark Comics
-email: greenelectrodes@gmail.com
+email: greensparkcomics@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Future Home of Green Spark Comics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://greensparkcomics.com" # the base hostname & protocol for your site
-twitter_username: GreenElectrodes
+twitter_username: greensparkcomics
 github_username:  
 
 # Build settings
